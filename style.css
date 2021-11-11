@@ -129,7 +129,6 @@ button[disabled] {
     font-size: 1rem;
   }
 }
-/*fasdkfja*/
 @media (max-width: 500px) {
   .btn {
     font-size: 0.8rem;
